@@ -119,5 +119,9 @@ public class ObjectScript : MonoBehaviour
     {
         GameObject go = GameObject.CreatePrimitive(_primitiveType);
     }
+
+
+
+
     #endregion
 }
